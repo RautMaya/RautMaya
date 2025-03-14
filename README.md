@@ -8,6 +8,8 @@ I am a  software developer focused on enhancing my skills in various programming
 
 ## Skills & Technologies
 
+Languages and Tools:
+Angular  Angular Material  Typescript  CSS  HTML  JavaScript  Bootstrap  C  C++  C Sharp  React  MySQL  NodeJS  Git
 c,cpp,java,html,css,bootstrap,js,dotnet,figma,git,github,mysql,nodejs,vscode,visualstudio
 
 ## GitHub Stats
