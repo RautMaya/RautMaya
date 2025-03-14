@@ -35,10 +35,4 @@ c,cpp,java,html,css,bootstrap,js,dotnet,figma,git,github,mysql,nodejs,vscode,vis
 
 💞️ I’m looking to collaborate on impactful opem-source projects related to Al,DevOps automation,and mobile apps,Let's create something cool together!.
 
-## Top Projects
 
-- [RautMaya](https://github.com/RautMaya/RautMaya) - My personal project repository.
-- [JavaScript](https://github.com/RautMaya/JavaScript) - Learning JavaScript.
-- [Cpp-Programming](https://github.com/RautMaya/Cpp-Programming) - Programming in C++.
-- [C_Programming](https://github.com/RautMaya/C_Programming) - Programming in C.
-- [HTML-CSS](https://github.com/RautMaya/HTML-CSS) - Web development using HTML and CSS.
