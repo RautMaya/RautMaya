@@ -44,8 +44,6 @@ c,cpp,java,html,css,bootstrap,js,dotnet,figma,git,github,mysql,nodejs,vscode,vis
 <p><a target="_blank" href="https://www.linkedin.com/in/Raut Maya" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
 
 
-{"linkedin":"https://www.linkedin.com/in/maya-raut-14aa212ab"}
-
 ## My Talks
 
 🌱 I’m currently learning C,C++,Web3,.Net development,and deep learning algorithms.Always diving into new frameworks!.
