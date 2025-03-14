@@ -1,66 +1,42 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
+## Hi there! 👋
 
-###
+I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and exploring new technologies. Join me on my journey through the world of programming!
 
-<div align="center">
-  <img src="www.linkedin.com/in/maya-raut-14aa212ab?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  
-</div>
+## About Me
 
-###
+I am a  software developer focused on enhancing my skills in various programming languages. Currently based in Karad, I am dedicated to building innovative solutions and contributing to open-source projects.
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+## Skills & Technologies
 
-###
+c,cpp,java,html,css,bootstrap,js,dotnet,figma,git,github,mysql,nodejs,vscode,visualstudio
 
-<h1 align="center">hey 👋 I am Maya</h1>
+## GitHub Stats
 
-###
+🔹 **Public Repositories:** 10  
 
-<h3 align="left">👩‍💻  About Me</h3>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RautMaya&show_icons=true&theme=radical)
 
-###
+## Recent Activity
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+- Pushed updates to [Cpp-Programming](https://github.com/RautMaya/Cpp-Programming) on March 11, 2025.
+- Committed new features to [JavaScript](https://github.com/RautMaya/JavaScript) on March 10, 2025.
+- Worked on [C_Programming](https://github.com/RautMaya/C_Programming) and added new logic on March 9, 2025.
+- Updated project documentation for [HTML-CSS](https://github.com/RautMaya/HTML-CSS) on March 8, 2025.
 
-###
+## Connect with Me
 
-<h3 align="left">🛠 Language and tools</h3>
+{"linkedin":"https://www.linkedin.com/in/maya-raut-14aa212ab"}
 
-###
+## My Talks
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+🌱 I’m currently learning C,C++,Web3,.Net development,and deep learning algorithms.Always diving into new frameworks!.
 
-###
+💞️ I’m looking to collaborate on impactful opem-source projects related to Al,DevOps automation,and mobile apps,Let's create something cool together!.
 
-<h3 align="left">🔥   My Stats :</h3>
+## Top Projects
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+- [RautMaya](https://github.com/RautMaya/RautMaya) - My personal project repository.
+- [JavaScript](https://github.com/RautMaya/JavaScript) - Learning JavaScript.
+- [Cpp-Programming](https://github.com/RautMaya/Cpp-Programming) - Programming in C++.
+- [C_Programming](https://github.com/RautMaya/C_Programming) - Programming in C.
+- [HTML-CSS](https://github.com/RautMaya/HTML-CSS) - Web development using HTML and CSS.
