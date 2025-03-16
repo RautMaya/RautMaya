@@ -1,5 +1,9 @@
 ## Hi there! 👋
 
+<div align="center">
+  <img height="150" src="https://in.pinterest.com/pin/1109433689442843663/"  />
+</div>
+
 I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and exploring new technologies. Join me on my journey through the world of programming!
 
 ## About Me
