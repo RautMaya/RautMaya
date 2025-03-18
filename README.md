@@ -1,8 +1,5 @@
-## Hi there! 👋
+## Hi there! 👋 I am Maya
 
-<div align="center">
-  <img height="150" src="https://in.pinterest.com/pin/1109433689442843663/"  />
-</div>
 
 I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and exploring new technologies. Join me on my journey through the world of programming!
 
@@ -10,15 +7,16 @@ I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and expl
 
 🔴 Dedicated to developing scalable and efficient software solutions.
 
+
 ## 🔥 About Me
 - 💻 Expertise in **C, C++, C#.NET, HTML, CSS, JavaScript, Oracle, MySQL, Java, and Figma**.
 - 🌱 Currently expanding knowledge in **AI & Data Science**.
 - ⚛️ Currently learning **React**.
 - 🎯 Passionate about optimizing software performance and architecture.
 - 🔗 Visit my portfolio: [yourwebsite.com](https://yourwebsite.com)
+  
 
 ## Skills & Technologies
-
 
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>  
