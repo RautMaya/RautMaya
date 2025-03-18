@@ -1,14 +1,18 @@
-## Hi there! 👋
+![Welcome Banner](https://via.placeholder.com/1200x400/ff0000/ffffff?text=Welcome+to+My+GitHub+Profile!)
 
-<div align="center">
-  <img height="150" src="https://in.pinterest.com/pin/1109433689442843663/"  />
-</div>
+# 👋 Hello, I'm [Your Name]
 
-I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and exploring new technologies. Join me on my journey through the world of programming!
+🚀 **Software Engineer | Open-Source Contributor | Technology Enthusiast**
 
-## About Me
+🔴 Dedicated to developing scalable and efficient software solutions.
 
-I am a  software developer focused on enhancing my skills in various programming languages. Currently based in Karad, I am dedicated to building innovative solutions and contributing to open-source projects.
+## 🔥 About Me
+- 💻 Expertise in **C, C++, C#.NET, HTML, CSS, JavaScript, Oracle, MySQL, Java, and Figma**.
+- 🌱 Currently expanding knowledge in **AI & Data Science**.
+- ⚛️ Currently learning **React**.
+- 🎯 Passionate about optimizing software performance and architecture.
+- 🔗 Visit my portfolio: [yourwebsite.com](https://yourwebsite.com)
+
 
 ## Skills & Technologies
 
@@ -26,32 +30,15 @@ I am a  software developer focused on enhancing my skills in various programming
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
 
-Languages and Tools:
-Angular  Angular Material  Typescript  CSS  HTML  JavaScript  Bootstrap  C  C++  C Sharp  React  MySQL  NodeJS  Git
-c,cpp,java,html,css,bootstrap,js,dotnet,figma,git,github,mysql,nodejs,vscode,visualstudio
 
-## GitHub Stats
+## 📈 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=red&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=red)
 
-🔹 **Public Repositories:** 10  
+## 🔗 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-red?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![Twitter](https://img.shields.io/badge/Twitter-red?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-profile)
+[![Portfolio](https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=firefox&logoColor=white)](https://yourwebsite.com)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RautMaya&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Pushed updates to [Cpp-Programming](https://github.com/RautMaya/Cpp-Programming) on March 11, 2025.
-- Committed new features to [JavaScript](https://github.com/RautMaya/JavaScript) on March 10, 2025.
-- Worked on [C_Programming](https://github.com/RautMaya/C_Programming) and added new logic on March 9, 2025.
-- Updated project documentation for [HTML-CSS](https://github.com/RautMaya/HTML-CSS) on March 8, 2025.
-
-## Connect with Me
-
-<p><a target="_blank" href="https://www.linkedin.com/in/Raut Maya" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
-
-
-## My Talks
-
-🌱 I’m currently learning C,C++,Web3,.Net development,and deep learning algorithms.Always diving into new frameworks!.
-
-💞️ I’m looking to collaborate on impactful opem-source projects related to Al,DevOps automation,and mobile apps,Let's create something cool together!.
-
-
+---
+💡 *“Simplicity is the soul of efficiency.”* — Austin Freeman
