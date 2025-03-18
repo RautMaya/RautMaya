@@ -8,6 +8,8 @@ I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and expl
 🔴 Dedicated to developing scalable and efficient software solutions.
 
 
+
+
 ## 🔥 About Me
 - 💻 Expertise in **C, C++, C#.NET, HTML, CSS, JavaScript, Oracle, MySQL, Java, and Figma**.
 - 🌱 Currently expanding knowledge in **AI & Data Science**.
@@ -15,6 +17,8 @@ I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and expl
 - 🎯 Passionate about optimizing software performance and architecture.
 - 🔗 Visit my portfolio: [yourwebsite.com](https://yourwebsite.com)
   
+
+
 
 ## Skills & Technologies
 
@@ -30,6 +34,8 @@ I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and expl
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
+
+
 
 
 ## GitHub Stats
