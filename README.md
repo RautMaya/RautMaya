@@ -7,14 +7,6 @@ I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and expl
 
 🔴 Dedicated to developing scalable and efficient software solutions.
 
-# 🔢 Guess The Number Game 🎯  
-🎮 Can you guess the secret number?  
-
-🚀 **Play Now →** [Click Here!](https://playguess.netlify.app)  
-
-🧠 **Think smart!**  
-🔢 **Guess wisely!**  
-🏆 **Win & celebrate!**  
 
 
 
@@ -43,10 +35,16 @@ I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and expl
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
 
+# 🔢 Guess The Number Game 🎯  
+🎮 Can you guess the secret number?  
 
-## Play My Game 🎮  
-[![Play on Netlify](https://img.shields.io/badge/Play%20Now-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://playguess.netlify.app)
+🚀 **Play Now →**  
 
+[![Play the Game](https://img.shields.io/badge/PLAY%20NOW!-blue?style=for-the-badge&logo=netlify)](https://playguess.netlify.app)  
+
+🧠 **Think smart!**  
+🔢 **Guess wisely!**  
+🏆 **Win & celebrate!**  
 
 
 ## GitHub Stats
