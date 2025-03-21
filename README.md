@@ -35,16 +35,7 @@ I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and expl
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
 
-# 🔢 Guess The Number Game 🎯  
-🎮 Can you guess the secret number?  
 
-🚀 **Play Now →**  
-
-[![Play the Game](https://img.shields.io/badge/PLAY%20NOW!-blue?style=for-the-badge&logo=netlify)](https://playguess.netlify.app)  
-
-🧠 **Think smart!**  
-🔢 **Guess wisely!**  
-🏆 **Win & celebrate!**  
 
 
 ## GitHub Stats
