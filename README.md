@@ -7,6 +7,14 @@ I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and expl
 
 🔴 Dedicated to developing scalable and efficient software solutions.
 
+# 🔢 Guess The Number Game 🎯  
+🎮 Can you guess the secret number?  
+
+🚀 **Play Now →** [Click Here!](https://playguess.netlify.app)  
+
+🧠 **Think smart!**  
+🔢 **Guess wisely!**  
+🏆 **Win & celebrate!**  
 
 
 
