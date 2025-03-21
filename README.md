@@ -36,6 +36,9 @@ I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and expl
 <a target="_blank" href="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" /></a></p>
 
 
+## Play My Game 🎮  
+[![Play on Netlify](https://img.shields.io/badge/Play%20Now-Netlify-brightgreen?style=for-the-badge&logo=netlify)](https://playguess.netlify.app)
+
 
 
 ## GitHub Stats
