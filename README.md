@@ -1,7 +1,7 @@
 ## Hi there! 👋 I am Maya
 
 <div align="center">
-  <img height="190" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"  />
+  <img height="200" src="https://media.tenor.com/IF2JdxzmyN4AAAAi/coding-girl.gif"  />
 </div>
 I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and exploring new technologies. Join me on my journey through the world of programming!
 
