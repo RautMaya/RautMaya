@@ -14,8 +14,8 @@ I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and expl
 
 ## 🔥 About Me
 - 💻 Expertise in **C, C++, C#.NET, HTML, CSS, JavaScript, Oracle, MySQL, Java, and Figma**.
-- 🌱 Currently expanding knowledge in **AI & Data Science**.
-- ⚛️ Currently learning **React**.
+- 🌱 Currently expanding knowledge in **C#.NET**.
+- ⚛️ Currently learning **.NET Framework**.
 - 🎯 Passionate about optimizing software performance and architecture.
 - 🔗 Visit my portfolio: [yourwebsite.com](https://yourwebsite.com)
   
