@@ -67,6 +67,32 @@ I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and expl
   <img src="https://img.shields.io/static/v1?message=Peerlist&logo=peerlist&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="peerlist logo" />
 </div>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  
+  <a href="https://www.youtube.com/c/YOUR_CHANNEL" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="YouTube logo" />
+  </a>
+
+  <a href="https://twitter.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Twitter logo" />
+  </a>
+
+  <a href="https://www.hackerrank.com/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="HackerRank logo" />
+  </a>
+
+  <a href="https://peerlist.io/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Peerlist&logo=peerlist&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Peerlist logo" />
+  </a>
+
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail logo" />
+  </a>
+</div>
+
 
 
 ## My Talks
