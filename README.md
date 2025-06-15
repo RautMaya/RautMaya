@@ -17,7 +17,7 @@ I'm **Maya Raut**, a passionate developer from **Karad**. I like coding and expl
 - 🌱 Currently expanding knowledge in **C#.NET**.
 - ⚛️ Currently learning **.NET Framework**.
 - 🎯 Passionate about optimizing software performance and architecture.
-- 🔗 Visit my portfolio: [yourwebsite.com](https://yourwebsite.com)
+- 🔗 Visit my portfolio: [yourwebsite.com](https://mayaraut.netlify.app)
   
 
 
